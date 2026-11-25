@@ -1,0 +1,8 @@
+{
+  "name": "ArchiVerse AI",
+  "description": "AI-powered 3D parallel-world city-building and urban simulation system with custom data structures, branching timelines, ML forecasting, and Gemini City Advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
